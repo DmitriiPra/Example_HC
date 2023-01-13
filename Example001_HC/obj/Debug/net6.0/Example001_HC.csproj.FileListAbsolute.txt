@@ -1,0 +1,15 @@
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/bin/Debug/net6.0/Example001_HC
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/bin/Debug/net6.0/Example001_HC.deps.json
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/bin/Debug/net6.0/Example001_HC.runtimeconfig.json
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/bin/Debug/net6.0/Example001_HC.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/bin/Debug/net6.0/Example001_HC.pdb
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.csproj.AssemblyReference.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.AssemblyInfoInputs.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.AssemblyInfo.cs
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.csproj.CoreCompileInputs.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/refint/Example001_HC.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.pdb
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/Example001_HC.genruntimeconfig.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example001_HC/obj/Debug/net6.0/ref/Example001_HC.dll
