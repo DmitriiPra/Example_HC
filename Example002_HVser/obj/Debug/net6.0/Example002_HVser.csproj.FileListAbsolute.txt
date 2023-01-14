@@ -1,0 +1,15 @@
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/bin/Debug/net6.0/Example002_HVser
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/bin/Debug/net6.0/Example002_HVser.deps.json
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/bin/Debug/net6.0/Example002_HVser.runtimeconfig.json
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/bin/Debug/net6.0/Example002_HVser.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/bin/Debug/net6.0/Example002_HVser.pdb
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.csproj.AssemblyReference.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.AssemblyInfoInputs.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.AssemblyInfo.cs
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.csproj.CoreCompileInputs.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/refint/Example002_HVser.dll
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.pdb
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/Example002_HVser.genruntimeconfig.cache
+/Users/PDA_MacBook/Documents/GB/Work_Folders/Example/Example002_HVser/obj/Debug/net6.0/ref/Example002_HVser.dll
